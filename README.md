@@ -1,0 +1,1 @@
+This repository contains examples of uncommon errors in MATLAB and their solutions.  The `bug.m` file shows code that may produce unexpected behavior, while `bugSolution.m` provides improved versions with error handling and more robust logic.  These examples highlight the importance of careful error checking and using appropriate techniques when working with MATLAB.
